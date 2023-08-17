@@ -8,7 +8,8 @@ discordのbotです
 
 ![demo](https://github.com/Happmc2525/discord-jankenbot/blob/main/demo.gif)
 
-あいこの場合そのまま続けることができます
+「グー」「チョキ」「パー」で手を出します。
+あいこの場合そのまま続けることができます。
 勝つか負けると本田が反応してくれます。
 
 [はっぴーさーばー2](https://happymc.jimdo.com/)
