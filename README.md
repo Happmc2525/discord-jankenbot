@@ -4,7 +4,7 @@ discordのbotです
 
 コマンド:
 
-/janken [name] - botとじゃんけんをする
+/janken - botとじゃんけんをする
 
 ![demo](https://github.com/Happmc2525/discord-jankenbot/blob/main/demo.gif)
 
