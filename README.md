@@ -1,0 +1,2 @@
+# discord-jankenbot
+discordのじゃんけんbot
